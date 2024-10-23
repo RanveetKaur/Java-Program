@@ -7,11 +7,5 @@ Prescription ID: 0
 Remark Type: Client
 Remark: Client has shown great improvement over time.
 -----------------------------
-Prescription ID: 0
-Remark Type: Client
-Remark: Client has shown great improvement over time.
------------------------------
-Prescription ID: 0
-Remark Type: Client
-Remark: Client has shown great improvement over time.
------------------------------
+
+
