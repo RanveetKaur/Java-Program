@@ -1,0 +1,20 @@
+Prescription ID: 0
+First Name: Alice
+Last Name: Johnson
+Address: 1234 Long Street, Suburb, 12345, Country
+Sphere: 1.5
+Cylinder: -2.0
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Richard
+-----------------------------
+Prescription ID: 0
+First Name: Alice
+Last Name: Johnson
+Address: 1234 Long Street, Suburb, 12345, Country
+Sphere: 1.5
+Cylinder: -2.0
+Axis: 90.0
+Examination Date: 22/10/24
+Optometrist: Dr. Richard
+-----------------------------
